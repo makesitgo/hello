@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/npm622/gostringutil"
+	"github.com/makesitgo/stringutil"
 )
 
 func main() {
